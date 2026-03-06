@@ -50,7 +50,7 @@ PDF → detailed report
 ## 🛠️ Tools & Technologies
 
 - **Python (pandas, NumPy)** – Data cleaning & feature engineering  
-- **PostgreSQL** – Business query analysis  
+- **MYSQL** – Business query analysis  
 - **Power BI** – Interactive dashboard & storytelling  
 
 ---
